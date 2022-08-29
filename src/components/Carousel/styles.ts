@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import slide3 from "../../Img/slide1.png";
+
 
 export const Container = styled.div`
   font-family: "Poppins", sans-serif;
