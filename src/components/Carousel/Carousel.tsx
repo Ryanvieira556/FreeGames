@@ -2,7 +2,7 @@ import { BarMenu } from "../BarMenu/BarMenu";
 import * as C from "./styles";
 import { carouselData } from "./CarouselData";
 import React, { useState } from "react";
-import { Search } from "../Search/Search";
+
 
 export const Carousel = () => {
   const [index, setIndex] = useState(0);
